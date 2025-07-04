@@ -1,6 +1,7 @@
 # Until_Then-Basta.Driver.Sweet.Lover
 
 ![Achievement icon](./images/achievement_icon.jpg)
+
 Getting the “Basta Driver, Sweet Lover” achievement in the game “Until Then”.
 
 Launches auto-spacing at the interval specified in the arguments.
