@@ -36,10 +36,10 @@ Launches auto-spacing at the interval specified in the arguments.
 
 ## Usage
 
-1. Run
-  ```powershell
-  # Example Run with Arguments
-  .\main.exe -i 1.0052
-  ```
+1. Run it from PowerShell or Command Prompt:
+   ```powershell
+   # Example Run with Arguments
+   .\main.exe -i 1.0052
+   ```
 2. Press the Space key to start or stop the script.
 3. To stop the script from running, you need to press Ctrl+C in the open command prompt or PowerShell.
