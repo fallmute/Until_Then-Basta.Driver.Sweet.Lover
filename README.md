@@ -10,16 +10,8 @@ Launches auto-spacing at the interval specified in the arguments.
 
 ## Contents
 
-1. [Requirements](#requirements)
-2. [Installation and Running](#installation-and-running)
-3. [Usage](#usage)
-
----
-
-## Requirements
-
-- Windows 10 or later
-- [Python](https://python.org) **Not required** (exe built with PyInstaller)
+1. [Installation and Running](#installation-and-running)
+2. [Usage](#usage)
 
 ---
 
