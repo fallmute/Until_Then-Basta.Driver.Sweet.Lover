@@ -38,14 +38,17 @@ Launches auto-spacing at the interval specified in the arguments.
    .\main.exe -i 1.0052
    ```
 
+
 > 📌 **Note**
 >  
 > The script toggles between running and paused each time you press the Space key.
+
 
 3. You need to press the Space key to successfully throw the first coin.
 4. Press Space again to stop the script once the minigame finishes.
 5. Achievement unlocked.
 6. Close the terminal and delete main.exe.
+
 
 > 📌 **Note**
 >  
