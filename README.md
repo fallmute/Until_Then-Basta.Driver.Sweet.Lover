@@ -43,7 +43,7 @@ Launches auto-spacing at the interval specified in the arguments.
    > The script toggles between running and paused each time you press the Space key.
 
 
-3. You need to press the Space key to successfully throw the first coin.
+3. You only need to press the space bar once to successfully flip the first coin.
 4. Press Space again to stop the script once the minigame finishes.
 
    > 📌 **Note**
