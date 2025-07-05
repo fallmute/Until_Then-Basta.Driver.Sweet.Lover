@@ -48,7 +48,7 @@ Launches auto-spacing at the interval specified in the arguments.
 
    > 📌 **Note**
    >  
-   > If Mark misses, try running the script with a different -t parameter (may be in the range of 1.0050–1.0056). I’ve tested the value 1.0052 several times, and it worked best for me. To stop the script running in the terminal, press Ctrl+C.
+   > If Mark misses, try running the script with a different -i parameter (may be in the range of 1.0050–1.0056). I’ve tested the value 1.0052 several times, and it worked best for me. To stop the script running in the terminal, press Ctrl+C.
 
 6. Achievement unlocked.
 7. Close the terminal and delete main.exe.
