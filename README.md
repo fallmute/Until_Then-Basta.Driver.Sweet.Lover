@@ -30,8 +30,8 @@ Launches auto-spacing at the interval specified in the arguments.
 
 ## Usage
 
-1. Go to Chapter 2: Jeepney Ride. Skip the dialogues and press pause at the start of the minigame.
-2. Run main.exe from PowerShell or Command Prompt. Example Run with Arguments:
+1. Go to Chapter 2: Jeepney Ride. Skip the dialogues (long-press the Shift key; the feature becomes available after the first completion) and press pause at the start of the minigame.
+2. Run main.exe from PowerShell or Command Prompt. Example Run with Argument:
    
    ```
    .\main.exe -i 1.0052
