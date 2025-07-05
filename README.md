@@ -45,10 +45,13 @@ Launches auto-spacing at the interval specified in the arguments.
 
 3. You need to press the Space key to successfully throw the first coin.
 4. Press Space again to stop the script once the minigame finishes.
-5. Achievement unlocked.
-6. Close the terminal and delete main.exe.
-
 
    > 📌 **Note**
    >  
    > If Mark misses, try running the script with a different -t parameter (may be in the range of 1.0050–1.0056). I’ve tested the value 1.0052 several times, and it worked best for me.
+
+6. Achievement unlocked.
+7. Close the terminal and delete main.exe.
+
+
+  
