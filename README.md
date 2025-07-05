@@ -38,9 +38,9 @@ Launches auto-spacing at the interval specified in the arguments.
    ```
 
 
-> 📌 **Note**
->  
-> The script toggles between running and paused each time you press the Space key.
+   > 📌 **Note**
+   >  
+   > The script toggles between running and paused each time you press the Space key.
 
 
 3. You need to press the Space key to successfully throw the first coin.
@@ -49,6 +49,6 @@ Launches auto-spacing at the interval specified in the arguments.
 6. Close the terminal and delete main.exe.
 
 
-> 📌 **Note**
->  
-> If Mark misses, try running the script with a different -t parameter (may be in the range of 1.0050–1.0056). I’ve tested the value 1.0052 several times, and it worked best for me.
+   > 📌 **Note**
+   >  
+   > If Mark misses, try running the script with a different -t parameter (may be in the range of 1.0050–1.0056). I’ve tested the value 1.0052 several times, and it worked best for me.
