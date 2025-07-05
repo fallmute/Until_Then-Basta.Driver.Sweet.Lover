@@ -21,7 +21,7 @@ Launches auto-spacing at the interval specified in the arguments.
 2. Place the file in any folder.
 3. Open a terminal (PowerShell or Command Prompt) in that folder.
 4. Run:
-   # Example Run for help
+   Example Run for help
    
    ```
    .\main.exe -h
